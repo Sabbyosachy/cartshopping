@@ -1,0 +1,27 @@
+.header{
+    text-align: center;
+}
+.logo{
+    height: 70px;
+    width: 250px;
+    margin-top: 10px;
+   
+}
+.header nav{
+    background-color: black;
+    line-height: 60px;
+    
+}
+.header a{
+    text-decoration: none;
+    color: white;
+    margin-left: 40px;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 7px 15px;
+    transition: 0.6s;
+}
+.header nav a:hover{
+    background-color: grey;
+    
+}
